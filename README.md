@@ -6,6 +6,10 @@ Preliminary Challenge
 - Please paste the JSON Data in Assets folder once project has been imported.
 - The Project has been completed using Kotlin and Java.
 
+## Sample
+
+https://user-images.githubusercontent.com/33457080/235450369-528f6ecf-b1be-4c9b-91be-a8f9b8b00b25.mp4
+
 
 ## Assumptions
 - The data should be entered properly in the JSON Format in the `events.json` file without missing out any delimiters. The file is located in assets folder in the Project.
