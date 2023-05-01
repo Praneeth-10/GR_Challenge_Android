@@ -1,0 +1,85 @@
+[{
+  "type": "START",
+  "id": "ABC123",
+  "timestamp": "1681722000",
+  "comments": "No issues - brand new and shiny!"
+},
+  {
+    "type": "START",
+    "id": "ABC456",
+    "timestamp": "1680343200",
+    "comments": "Small dent on passenger door"
+ },
+  {
+  "type": "START",
+  "id": "123",
+  "timestamp": "1681743600",
+  "comments": "Car is missing both front wheels!"
+},
+  {
+    "type": "END",
+    "id": "ABC123",
+    "timestamp": "1681743600",
+    "comments": "Car is missing both front wheels!"
+ },
+  {
+    "type": "END",
+    "id": "ABC456",
+    "timestamp": "1680443200",
+    "comments": ""
+  },
+  {
+    "type": "START",
+    "id": "ABC0123",
+    "timestamp": 1659453600,
+    "comments": "No issues - brand new and shiny!"
+  },
+  {
+    "type": "END",
+    "id": "ABC0123",
+    "timestamp": 1659578800,
+    "comments": "Car is missing both front wheels!"
+  },
+  {
+    "type": "START",
+    "id": "DEF456",
+    "timestamp": 1659457200,
+    "comments": "No issues - brand new and shiny!"
+  },
+  {
+    "type": "END",
+    "id": "DEF456",
+    "timestamp": 1659482400,
+    "comments": "Car is missing both front wheels!"
+  },
+  {
+    "type": "START",
+    "id": "GHI789",
+    "timestamp": 1659460800,
+    "comments": "No issues - brand new and shiny!"
+  },
+  {
+    "type": "END",
+    "id": "GHI789",
+    "timestamp": 1659486000,
+    "comments": ""
+  },
+  {
+    "type": "START",
+    "id": "JKL012",
+    "timestamp": 1659482400,
+    "comments": "No issues - brand new and shiny!"
+  },
+  {
+    "type": "START",
+    "id": "MNO345",
+    "timestamp": 1659489600,
+    "comments": "No issues - brand new and shiny!"
+  },
+  {
+    "type": "END",
+    "id": "MNO345",
+    "timestamp": 1659520800,
+    "comments": "Car is missing both front wheels!"
+  }
+]
